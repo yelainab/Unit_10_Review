@@ -29,10 +29,10 @@ nav#topLinks a:hover{
 
 
 /* Marquee Styles */
-div#maraquee{
+div#marquee{
    position: relative;
 }
-div#maraquee table{
+div#marquee table{
    position: absolute;
 }
 
@@ -45,7 +45,7 @@ div#maraquee table{
 
 
 /* Animation Styles */
-div#maraquee table{
+div#marquee table{
    animation: scroll 50s linear infinite;
 }
 div#marquee:hover table{
